@@ -1,11 +1,1 @@
-[
-    {
-        "idSensor": 0,
-        "descripcion": "Energia Biblioteca",
-        "nombre": "BIBLIOEH",
-        "localizacion": {
-            "edificio": "Biblioteca",
-            "nivel": "piso 1,2,3,4"
-        }
-    }
-]
+[{"idSensor": 0,"descripcion": "Energia Biblioteca","nombre": "BIBLIOEH", "localizacion": { "edificio": "Biblioteca","nivel": "piso 1,2,3,4"}}]
